@@ -1,0 +1,51 @@
+export default [
+{
+  id:5,
+  name: 'IRON MAN',
+  tagline: '',
+  taglineCTA: 'Touchless Delivery',
+  image: require('../../assets/images/iron_man.jpg'),
+},
+{
+  id:6,
+  name: 'CAPTAIN AMERICA',
+  tagline: '',
+  taglineCTA: 'Touchless Delivery',
+  image: require('../../assets/images/cap2.jpg'),
+},
+{
+  id:7,
+  name: 'THOR',
+  tagline: '',
+  taglineCTA: 'Touchless Delivery',
+  image: require('../../assets/images/thor.jpg'),
+},
+{
+  id:8,
+  name: 'BLACK WIDOW',
+  tagline: '',
+  taglineCTA: 'Touchless Delivery',
+  image: require('../../assets/images/black.jpg'),
+},
+{
+  id:9,
+  name: 'CAPTAIN MARVEL',
+  tagline: '',
+  taglineCTA: 'Touchless Delivery',
+  image: require('../../assets/images/cap_marv.jpg'),
+},
+{
+  id:10,
+  name: 'DEADPOOL',
+  tagline: '',
+  taglineCTA: 'Touchless Delivery',
+  image: require('../../assets/images/dead.jpg'),
+},
+{
+  id:11,
+  name: 'HULK',
+  tagline: '',
+  taglineCTA: 'Touchless Delivery',
+  image: require('../../assets/images/hulk.jpg'),
+},
+];
